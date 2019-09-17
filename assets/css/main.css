@@ -2321,6 +2321,10 @@ input, select, textarea {
 			color: #8cc9f0;
 		}
 
+    .icon.style6 {
+      color: #f5d1b5;
+    }
+
 		@media screen and (max-width: 1680px) {
 
 			.icon.major:before {
@@ -2825,7 +2829,7 @@ input, select, textarea {
 	}
 
 		.features li {
-			width: calc(33.33333% - 2em);
+			width: calc(50% - 2em);
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
