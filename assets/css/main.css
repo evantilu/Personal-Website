@@ -3806,7 +3806,9 @@ input, select, textarea {
 				width: calc(100% - 2em);
 			}
 
-
+#second header {
+  margin-bottom: 5rem;
+}
 
 
 
