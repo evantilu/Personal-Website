@@ -3823,6 +3823,7 @@ input, select, textarea {
 		-ms-align-items: center;
 		align-items: center;
 		margin: 3em 0 1em 0;
+		text-align: left;
 	}
 
 		.sec2_content .image {
