@@ -3869,7 +3869,7 @@ input, select, textarea {
 /* profile */
     .profile > ul {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(320px, 2fr));
+      grid-template-columns: repeat(auto-fit, minmax(380px, 2fr));
       grid-gap: 2rem;
     }
 
