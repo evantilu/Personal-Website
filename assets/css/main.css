@@ -3866,7 +3866,15 @@ input, select, textarea {
 
 		}
 
+/* profile */
+    .profile > ul {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 2fr));
+      grid-gap: 2rem;
+    }
 
-
+    .profile > ul > li {
+		  list-style: none;
+    }
 
 
